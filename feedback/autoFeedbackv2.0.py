@@ -35,8 +35,8 @@ def check_element(element):
 if __name__ == "__main__":
 
     #Take students registration number and password
-    studentId = "BS-18-IB-100625"#input("Enter your registration number: ")
-    studentPassword = "70876.84F6BBB1A-F209-4A32-997D-6"#input("Enter your password: ")
+    studentId = input("Enter your registration number: ")
+    studentPassword = input("Enter your password: ")
     is_firefox = False
     options = Options()
     #options.add_argument('--headless')
@@ -177,8 +177,8 @@ if __name__ == "__main__":
                 else:
                     browser.find_element_by_id("_ctl0_ContentPlaceHolder1_txt"+boxId[run]).send_keys(randNumber)
                     
-            #(browser.find_element_by_id("_ctl0_ContentPlaceHolder1_cmdSubmit")).send_keys(Key.RETURN)
-            #(browser.find_element_by_id("_ctl0_ContentPlaceHolder1_cmdReset")).send_keys(Key.RETURN)
+            (browser.find_element_by_id("_ctl0_ContentPlaceHolder1_cmdSubmit")).send_keys(Key.RETURN)
+            (browser.find_element_by_id("_ctl0_ContentPlaceHolder1_cmdReset")).send_keys(Key.RETURN)
         print("Done!!")
             
     else:
