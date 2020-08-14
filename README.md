@@ -4,6 +4,15 @@ Due to the long and uninteresting feedback set by our university two programmers
 
 ![autofeed GUI](/feedback/GUI.PNG)
 
+
+
+
+## Requirements
+
+* A potato PC
+* Windows 10 64-bit (It may run on previous versions of Windows but they have not been tested)
+* Google Chrome
+
 ## Credits
 
 * __Shaharyar__ (Laughing-Kid)
