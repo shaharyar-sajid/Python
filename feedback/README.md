@@ -1,4 +1,18 @@
-This is a project for automating CS 18-22 feedback for forth semester.
+This is a project for automating feedback 
+
+Version 3.0:
+
+-Added GUI
+
+-Removed Firefox support due to some issues
+
+Version 2.0:(Not Fully Working)
+
+-Added detailed feedback automation 
+
+Version 1.3:
+
+-Added support for any department
 
 Version 1.2:
 
