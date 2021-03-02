@@ -6,6 +6,8 @@ Due to the long and uninteresting feedback set by our university two programmers
 
 https://www.file-upload.com/1ameduqz0sef
 
+# Screenshot
+
 ![autofeed GUI](/feedback/GUI.PNG)
 
 ## Requirements
